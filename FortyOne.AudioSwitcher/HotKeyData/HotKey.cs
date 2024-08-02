@@ -6,6 +6,7 @@ using System.Windows.Forms;
 using WindowsInput;
 using WindowsInput.Native;
 using AudioSwitcher.AudioApi;
+using Microsoft.Toolkit.Uwp.Notifications;
 
 namespace FortyOne.AudioSwitcher.HotKeyData
 {
@@ -294,6 +295,13 @@ namespace FortyOne.AudioSwitcher.HotKeyData
                     var input = new InputSimulator();
 
                     var mods = new List<VirtualKeyCode>();
+
+                    ToastNotificationManagerCompat.History.Clear();
+
+                    new ToastContentBuilder()
+                    .AddText("Audio Source Changed")
+                    .AddText(Owner.DeviceName)
+                    .Show();
 
                     if (Owner.Modifiers == Modifiers.Shift)
                         mods.Add(VirtualKeyCode.SHIFT);

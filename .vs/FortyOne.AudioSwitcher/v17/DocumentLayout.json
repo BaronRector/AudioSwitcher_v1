@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSTS\\Projects\\Apps\\Desktop\\AudioSwitcher_v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5622FD-B609-40E2-8E01-1B619752867E}|FortyOne.AudioSwitcher\\FortyOne.AudioSwitcher.GUI.csproj|c:\\vsts\\projects\\apps\\desktop\\audioswitcher_v1\\fortyone.audioswitcher\\hotkeydata\\hotkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5622FD-B609-40E2-8E01-1B619752867E}|FortyOne.AudioSwitcher\\FortyOne.AudioSwitcher.GUI.csproj|solutionrelative:fortyone.audioswitcher\\hotkeydata\\hotkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotKey.cs",
+              "DocumentMoniker": "C:\\VSTS\\Projects\\Apps\\Desktop\\AudioSwitcher_v1\\FortyOne.AudioSwitcher\\HotKeyData\\HotKey.cs",
+              "RelativeDocumentMoniker": "FortyOne.AudioSwitcher\\HotKeyData\\HotKey.cs",
+              "ToolTip": "C:\\VSTS\\Projects\\Apps\\Desktop\\AudioSwitcher_v1\\FortyOne.AudioSwitcher\\HotKeyData\\HotKey.cs",
+              "RelativeToolTip": "FortyOne.AudioSwitcher\\HotKeyData\\HotKey.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAACoBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:10:25.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
